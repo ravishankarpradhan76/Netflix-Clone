@@ -1,6 +1,6 @@
 # Netflix UI-Clone App
 
-This is a simple Flutter application designed for Chatting.
+This is a simple Flutter application.
 
 ## Getting Started
 
