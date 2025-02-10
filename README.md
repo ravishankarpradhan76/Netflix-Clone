@@ -14,13 +14,6 @@ This is a simple Flutter application designed for Chatting.
 
 5. **Responsive Design and Cross-Platform Support**: Ensure the app is responsive and works smoothly across various devices, including web browsers, mobile devices, and smart TVs, offering a consistent user experience regardless of the platform.
 
-
-## APK File
-
-You can download the APK file for the app using the link below:
-
-[Download APK](https://drive.google.com/file/d/1mskts1_p189tBmnQbctwo8YnL158ydju/view?usp=sharing)
-
 ## App Screenshot
 
 Here are the screenshots of the app:
